@@ -1,6 +1,5 @@
-# Pyomo Workshop
-Pyomo workshop held in Ferdowsi University of Mashhad in February 22, 2020.
-you can watch the workshop here https://youtu.be/WYoO8T0SgSA
+# Pyomo Software
+
 ## Contents
 - Installing pyomo
 - Connecting it to the solvers like GLPK, CBC, IPOPT and CPLEX
